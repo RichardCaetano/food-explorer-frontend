@@ -37,8 +37,6 @@ A aplicação conta com as seguintes páginas:
 - Editar prato
 - Favoritos
 
-!["Página home"](./src/assets/home.png)
-
 <h2 id="features">🛠️ Funcionalidades</h2>
 
 A aplicação apresenta as seguintes funcionalidades:
